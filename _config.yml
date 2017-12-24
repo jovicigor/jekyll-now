@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Igor Jovic
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Engineer from Belgrade, Serbia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fbeg1-1.fna.fbcdn.net/v/t1.0-9/23131596_10214322630642500_3779085296588024589_n.jpg?oh=9787672d779c3d5816299d144fa601ee&oe=5AC66A0B
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: jovic.i@me.com
+  facebook: https://www.facebook.com/iigorjovic
   flickr:
-  github: barryclark/jekyll-now
+  github: jovicigor/jovicigor.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/igor-jovic/ 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
